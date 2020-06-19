@@ -1,5 +1,5 @@
 # surfaceRegistration
-Tools for geometric shape analysis of spherical surfaces with the general elastic metric based on the work by Zhe Su, Martin Bauer, Eric Klassen and Kyle Gallivan.
+Tools for surface registratoin of spherical surfaces with the general elastic metric based on the work by Zhe Su, Martin Bauer, Eric Klassen and Kyle Gallivan.
 
 ## What is it?
 
