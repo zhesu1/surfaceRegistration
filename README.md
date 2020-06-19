@@ -5,7 +5,7 @@ Tools for geometric shape analysis of spherical surfaces with the general elasti
 
 This code provides tools for geometric shape analysis on spherical surfaces with the general elastic metric. It is able to factor out reparametrizations and translations.
 
-For details we refer to our papers
+For details we refer to our paper
 
 ```css
 @article{su2020simplifying,
