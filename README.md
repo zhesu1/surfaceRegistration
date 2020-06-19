@@ -28,7 +28,7 @@ The code was tested on jupyter notebook.
 ## Usage
 
 See the file "Surface_Registration" for examples of how to use the code. Each surface should be represented using spherical coordinates as a function f:[0, &pi;] x [0, 2&pi;] &rarr; R<sup>3</sup> 
-such that f(0, &theta;) = f(0, 0), f(&pi;, &theta;) = f(&pi;, 0) and f(&phi;, 0) = f(&phi;, 2&pi;). The code can be used directly for surfaces with resolution 50 x 99 (the numbers of discrete polar and azimuthal angles) since the corresponding bases are preloaded in the folder "Bases".  For the other resolutions, one can resample the surfaces or generate the corresponding bases for surfaces using the file in the folder "generateBases" and then put the bases files in the folder "Bases". 
+such that f(0, &theta;) = f(0, 0), f(&pi;, &theta;) = f(&pi;, 0) and f(&phi;, 0) = f(&phi;, 2&pi;). The code can be used directly for surfaces with resolution 50 x 99 (the numbers of discrete polar and azimuthal angles) since the corresponding base is preloaded in the folder "Bases".  For the other resolutions, one can resample the surfaces or generate the corresponding bases for surfaces using the file in the folder "generateBases" and then put the bases files in the folder "Bases". 
 
 ## License
 
