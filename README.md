@@ -1,9 +1,5 @@
 # surfaceRegistration
-Tools for surface registratoin of spherical surfaces with the general elastic metric based on the work by Zhe Su, Martin Bauer, Eric Klassen and Kyle Gallivan.
-
-## What is it?
-
-This code provides tools for geometric shape analysis on spherical surfaces with the general elastic metric. It is able to factor out reparametrizations and translations.
+Tools for surface registratoin of spherical surfaces with the general elastic metric based on the work by Zhe Su, Martin Bauer, Eric Klassen and Kyle Gallivan. It is able to factor out reparametrizations and translations.
 
 For details we refer to our paper
 
